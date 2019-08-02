@@ -1,0 +1,26 @@
+alchol_tabacco.csv: 주류, 흡연 소비통계(단위: 알콜-1인당리터, 담배-1인당그램)
+http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_2BN47&conn_path=I2
+
+city.csv: 지역별 자살률(단위: 10만명당 자살 인구수)
+http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21121E&conn_path=I2
+
+method.csv: 자살 기도 방법(단위: %)
+http://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_11794N_606&conn_path=I2
+
+seasons.csv: 월별 자살률(단위: 명)
+http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E02&conn_path=I2
+
+suicide_rate.csv: 연령별, 성별 자살률 (단위: 명)
+http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B34E01&conn_path=I2
+
+googletrend_suicide.csv: 구글 트렌드 검색어 '자살' 관심도
+https://trends.google.co.kr/trends/explore?date=all&geo=KR&q=%EC%9E%90%EC%82%B4
+
+1_ratio.csv: 1인 가구 비율(단위: %)
+http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21161&conn_path=I2
+
+pop.csv 전국 인구(단위: 명)
+http://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B040A3&conn_path=I2
+
+불건전 정보 (단위: %)
+http://kosis.kr/statHtml/statHtml.do?orgId=127&tblId=TX_342_2009_H2197&conn_path=I2
